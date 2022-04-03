@@ -1,4 +1,4 @@
-module github.com/kaplanomr/go-example-wss
+module github.com/kaplanomr/go-example-ws
 
 go 1.17
 
